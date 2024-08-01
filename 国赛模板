@@ -20,6 +20,7 @@
 \usepackage{float}% 固定图片或表格的位置
 \usepackage{gensymb}
 \usepackage{microtype}
+\usepackage{hyperref}% 导航窗格
 
 \geometry{a4paper,left=2.5cm,right=2.5cm,top=2cm,bottom=2cm}% 页边距
 \lstset{
